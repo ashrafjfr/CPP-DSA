@@ -37,7 +37,7 @@ void removeMiddle(int arr[], int i, int length) {
 }
 
 void printArr(int arr[], int capacity) {
-    for (int i = 0, i < capacity; i++) {
+    for (int i = 0; i < capacity; i++) {
         cout << arr[i] << " ";
     }
     cout << endl;
